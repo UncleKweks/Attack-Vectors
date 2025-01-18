@@ -24,3 +24,9 @@
 11. Storage Collision 
 
 12. Weak Randomness
+
+13. Delegate Call
+
+14. Entropy Illusion
+
+15. Floating Pragma
